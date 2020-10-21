@@ -1,6 +1,8 @@
 ## File Metadata Server ##
 
-This is a networking based project where several clients have the ability (once authenticated) to get certain sets of file metadata.
+This is a networking based project where several clients have the ability (once authenticated) to get certain sets of file metadata.  
+The csapp library is used to help facilitate networking and robust reading and writing of files.  
+Provided by the authors of *Computer Systems: A Programmer's Perspective, 2nd edition*.
 
 **filed**  
   
